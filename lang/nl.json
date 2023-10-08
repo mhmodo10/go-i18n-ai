@@ -1,0 +1,8 @@
+{
+	"emailCreated": "Succesvol {email} toegevoegd als e-mail",
+	"loggedIn": {
+		"fail": "Kan gebruiker niet inloggen",
+		"success": "Gebruiker succesvol ingelogd"
+	},
+	"test": "Dit is een testbericht"
+}

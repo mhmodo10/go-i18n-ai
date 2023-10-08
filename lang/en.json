@@ -1,0 +1,8 @@
+{
+    "test" : "This is a test message",
+    "emailCreated" : "Successfully added {email} as email",
+    "loggedIn": {
+        "success": "User logged in successfully",
+        "fail": "failed to log user in"
+    }
+}
