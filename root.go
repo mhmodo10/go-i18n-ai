@@ -69,9 +69,7 @@ func Run() {
 	}
 }
 
-//TODO: add documentation
 //TODO: add concurrency
-//TODO: add readme
 //TODO: cleanup
 func TranslateAndSave(cCtx *cli.Context) error {
 	s := spinner.New(spinner.CharSets[39], 500*time.Millisecond)
